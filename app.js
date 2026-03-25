@@ -1,6 +1,0 @@
-
-body { background: #000; color: white; font-family: Arial; padding: 15px; }
-.card { background: #111; padding: 15px; border-radius: 10px; margin-top: 15px; }
-button { width: 100%; padding: 12px; margin-top: 10px; background: #333; color: #fff;
-  border: none; border-radius: 8px; font-size: 16px; }
-.title { text-align: center; margin-bottom: 20px; }
